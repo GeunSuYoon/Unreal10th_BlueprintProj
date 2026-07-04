@@ -1,0 +1,12 @@
+# Text
+*.cpp text
+*.h text
+*.cs text
+*.ini text
+*.uproject text
+*.uplugin text
+*.json text
+
+# Binary
+*.uasset binary
+*.umap binary
